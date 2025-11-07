@@ -1,6 +1,6 @@
 {
   "global": {
-    "default_to": "support@whatsapp.com",
+    "default_to": "support@support.whatsapp.com",
     "batch_limit": 3,
     "cooldown_seconds": 60
   },
