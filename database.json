@@ -6,11 +6,11 @@
   },
   "users": [
     {
-      "telegram_username": "wilzunban",
-      "telegram_id": 123456789,
+      "telegram_username": "Thisiswilz",
+      "telegram_id": 8192162829,
       "name": "WILLzzz",
-      "email": "you@gmail.com",
-      "app_password": "abcd efgh ijkl mnop",
+      "email": "mysha8349@gmail.com",
+      "app_password": "mysha8349@gmail.com",
       "smtp_server": "smtp.gmail.com",
       "smtp_port": 587
     }
