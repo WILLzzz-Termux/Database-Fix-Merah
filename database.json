@@ -13,6 +13,15 @@
       "app_password": "afebovsmgbjzeqqd",
       "smtp_server": "smtp.gmail.com",
       "smtp_port": 587
+    },
+    {
+      "telegram_username": "UserFree",
+      "telegram_id": 7777777,
+      "name": "Free User",
+      "email": "your@gmail.com",
+      "app_password": "pw app",
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587
     }
   ]
 }
