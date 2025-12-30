@@ -22,6 +22,15 @@
       "app_password": "pw app",
       "smtp_server": "smtp.gmail.com",
       "smtp_port": 587
+    },
+    {
+      "telegram_username": "dapz",
+      "telegram_id": 7709605967,
+      "name": "Dapz X Wilz",
+      "email": "zakisigma739@gmail.com",
+      "app_password": "fuce ghwe mowu xlsm",
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587
     }
   ]
 }
